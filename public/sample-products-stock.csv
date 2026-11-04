@@ -1,0 +1,14 @@
+Product Name,Category,Price ($),Opening Stock,SKU,Description
+Iced Latte,Coffee,3.50,50,COF-LAT-01,Espresso with cold milk and ice cubes
+Americano,Coffee,2.75,60,COF-AME-01,Rich double espresso diluted with hot or cold water
+Caramel Macchiato,Coffee,4.25,35,COF-MAC-01,Steamed milk with vanilla espresso and caramel
+Green Tea,Tea,3.00,40,TEA-GRN-01,Organic Japanese green tea hot or iced
+Peach Iced Tea,Tea,3.50,30,TEA-PCH-01,Infused black tea with sweet peach syrup
+Club Sandwich,Food,4.50,25,FOD-SAN-01,Toasted multi-grain bread with chicken and lettuce
+OMR Classic Burger,Food,6.00,20,FOD-BGR-01,Juicy smash patty with cheddar and house sauce
+Crispy Chicken Tenders,Food,5.00,25,FOD-TEN-01,Golden battered chicken strips with dip
+Bottled Water,Beverages,1.00,80,BEV-WAT-01,Chilled natural mineral water 500ml
+Fresh Orange Juice,Beverages,3.50,35,BEV-ORJ-01,100% freshly squeezed orange juice
+Butter Croissant,Bakery,3.25,30,BAK-CRO-01,Golden flaky French pastry baked fresh daily
+Chocolate Chip Muffin,Bakery,2.75,25,BAK-MUF-01,Rich cocoa muffin with dark chocolate chips
+

@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": "prod-iced-latte",
+      "name": "Iced Latte",
+      "category": "Coffee",
+      "price": 350,
+      "sku": "COF-LAT-01",
+      "openingStock": 50,
+      "isActive": true,
+      "sortOrder": 1,
+      "description": "Espresso with cold milk and ice cubes"
+    },
+    {
+      "id": "prod-americano",
+      "name": "Americano",
+      "category": "Coffee",
+      "price": 275,
+      "sku": "COF-AME-01",
+      "openingStock": 60,
+      "isActive": true,
+      "sortOrder": 2,
+      "description": "Rich double espresso diluted with hot water or poured over ice"
+    },
+    {
+      "id": "prod-caramel-macchiato",
+      "name": "Caramel Macchiato",
+      "category": "Coffee",
+      "price": 425,
+      "sku": "COF-MAC-01",
+      "openingStock": 35,
+      "isActive": true,
+      "sortOrder": 3,
+      "description": "Steamed milk with vanilla syrup, marked with espresso and caramel drizzle"
+    },
+    {
+      "id": "prod-green-tea",
+      "name": "Green Tea",
+      "category": "Tea",
+      "price": 300,
+      "sku": "TEA-GRN-01",
+      "openingStock": 40,
+      "isActive": true,
+      "sortOrder": 4,
+      "description": "Organic Japanese green tea, served hot or iced"
+    },
+    {
+      "id": "prod-peach-tea",
+      "name": "Peach Iced Tea",
+      "category": "Tea",
+      "price": 350,
+      "sku": "TEA-PCH-01",
+      "openingStock": 30,
+      "isActive": true,
+      "sortOrder": 5,
+      "description": "Infused black tea with sweet peach syrup and mint leaves"
+    },
+    {
+      "id": "prod-sandwich",
+      "name": "Club Sandwich",
+      "category": "Food",
+      "price": 450,
+      "sku": "FOD-SAN-01",
+      "openingStock": 25,
+      "isActive": true,
+      "sortOrder": 6,
+      "description": "Toasted multi-grain bread with roasted chicken, lettuce and cheddar"
+    },
+    {
+      "id": "prod-burger",
+      "name": "OMR Classic Burger",
+      "category": "Food",
+      "price": 600,
+      "sku": "FOD-BGR-01",
+      "openingStock": 20,
+      "isActive": true,
+      "sortOrder": 7,
+      "description": "Juicy smash patty with melted cheese, house sauce and pickles"
+    },
+    {
+      "id": "prod-chicken-tenders",
+      "name": "Crispy Chicken Tenders",
+      "category": "Food",
+      "price": 500,
+      "sku": "FOD-TEN-01",
+      "openingStock": 25,
+      "isActive": true,
+      "sortOrder": 8,
+      "description": "Golden battered tender chicken strips with honey mustard dip"
+    },
+    {
+      "id": "prod-bottled-water",
+      "name": "Bottled Water",
+      "category": "Beverages",
+      "price": 100,
+      "sku": "BEV-WAT-01",
+      "openingStock": 80,
+      "isActive": true,
+      "sortOrder": 9,
+      "description": "Chilled 500ml natural mineral water"
+    },
+    {
+      "id": "prod-orange-juice",
+      "name": "Fresh Orange Juice",
+      "category": "Beverages",
+      "price": 350,
+      "sku": "BEV-ORJ-01",
+      "openingStock": 35,
+      "isActive": true,
+      "sortOrder": 10,
+      "description": "Freshly squeezed 100% natural orange juice over ice"
+    },
+    {
+      "id": "prod-croissant",
+      "name": "Butter Croissant",
+      "category": "Bakery",
+      "price": 325,
+      "sku": "BAK-CRO-01",
+      "openingStock": 30,
+      "isActive": true,
+      "sortOrder": 11,
+      "description": "Golden flaky French pastry baked fresh every morning"
+    },
+    {
+      "id": "prod-chocolate-muffin",
+      "name": "Chocolate Chip Muffin",
+      "category": "Bakery",
+      "price": 275,
+      "sku": "BAK-MUF-01",
+      "openingStock": 25,
+      "isActive": true,
+      "sortOrder": 12,
+      "description": "Rich cocoa muffin with dark chocolate chips"
+    }
+  ]
+}
+
